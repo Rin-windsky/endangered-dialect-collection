@@ -1,0 +1,26 @@
+{
+  "name": "xiangyin-collection",
+  "version": "1.0.0",
+  "private": true,
+  "description": "乡音 · 方言收藏馆 —— 地方方言与语言文化收藏、聆听及共建平台",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "echarts": "6.1.0",
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "sharp": "^0.35.5",
+    "typescript": "^5.9.0"
+  }
+}
